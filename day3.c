@@ -1,8 +1,11 @@
-/**
- * Return an array of arrays of size *returnSize.
- * The sizes of the arrays are returned as *returnColumnSizes array.
- * Note: Both returned array and *columnSizes array must be malloced, assume caller calls free().
- */
+
+//this will not work for every test case due to data overflow 
+
+//even after taking long long int it is still not passing all test case 
+
+//so we need some different approach for this question.
+
+
 int fact(int n)//used factorial for the purpose of pascal's traingle pattern
 {
     int facto=1;//intialising with 1
