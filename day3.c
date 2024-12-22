@@ -3,7 +3,7 @@
 
 //even after taking long long int it is still not passing all test case 
 
-//so we need some different approach for this question.
+//so we need some different approach for this question
 
 
 int fact(int n)//used factorial for the purpose of pascal's traingle pattern
