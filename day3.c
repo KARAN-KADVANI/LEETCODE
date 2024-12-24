@@ -3,7 +3,6 @@
 
 //even after taking long long int it is still not passing all test case 
 
-//so we need some different approach for this question
 //so we need some different approach for this question.
 
 

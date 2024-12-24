@@ -1,3 +1,6 @@
+
+
+
 int** generate(int numRows, int* returnSize, int** returnColumnSizes) 
 {
     int** arr=(int**)malloc(numRows*sizeof(int*));//dynamic memory allocation in 2D array
